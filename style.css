@@ -1,0 +1,26 @@
+body{ 
+    background-color: blanchedalmond;
+
+}
+h1{
+   font-style: italic;
+   font-display: bold;
+   color: rgb(0, 0, 0);
+   text-align: center;
+}
+p{
+   font-size: large;
+   font-style: italic;
+   font-display: bold;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: rgb(17, 130, 222);
+}
+
+h2{
+   font-style: italic;
+   font-display: bold;
+   color: rgb(0, 0, 0);
+}
+a{
+   text-align: center;
+}
